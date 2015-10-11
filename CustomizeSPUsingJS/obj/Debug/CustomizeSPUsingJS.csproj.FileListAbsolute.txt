@@ -1,0 +1,3 @@
+G:\Demo\Apps\CustomizeSPUsingJS\CustomizeSPUsingJS\bin\Debug\CustomizeSPUsingJS.pdb
+G:\Demo\Apps\CustomizeSPUsingJS\CustomizeSPUsingJS\obj\Debug\CustomizeSPUsingJS.dll
+G:\Demo\Apps\CustomizeSPUsingJS\CustomizeSPUsingJS\obj\Debug\CustomizeSPUsingJS.pdb
